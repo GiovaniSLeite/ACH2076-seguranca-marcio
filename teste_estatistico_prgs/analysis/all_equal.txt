@@ -1,0 +1,141 @@
+------------------------------------------------------------------------------
+RESULTS FOR THE UNIFORMITY OF P-VALUES AND THE PROPORTION OF PASSING SEQUENCES
+------------------------------------------------------------------------------
+   generator is <data/teste.pi>
+------------------------------------------------------------------------------
+ C1  C2  C3  C4  C5  C6  C7  C8  C9 C10  P-VALUE  PROPORTION  STATISTICAL TEST
+------------------------------------------------------------------------------
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  Frequency
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  BlockFrequency
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  CumulativeSums
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  CumulativeSums
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  Runs
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  LongestRun
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  Rank
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  FFT
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.000000 * 1000/1000 *  NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   0 1000  0.00000
